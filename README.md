@@ -1,6 +1,10 @@
 # recipez
 
 A flutter application that stores and displays  recipes of different cuisines and filter recipes.
+The purpose of this application was to practice clean navigation across different screens, passing data around screens and doing all of this while writing clean, well documented code following good practices.
+
+This app makes use of shared_preferences package offered by pub dev to maintain local storage opertations such as saving data and retrieving it as well as using it across different screens.
+Further improvements that can be made to the app have been noted as "TODOs" throughout the project
 
 ## Getting Started
 
