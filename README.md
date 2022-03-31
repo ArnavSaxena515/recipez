@@ -4,7 +4,9 @@ A flutter application that stores and displays  recipes of different cuisines an
 The purpose of this application was to practice clean navigation across different screens, passing data around screens and doing all of this while writing clean, well documented code following good practices.
 
 This app makes use of shared_preferences package offered by pub dev to maintain local storage opertations such as saving data and retrieving it as well as using it across different screens.
-Further improvements that can be made to the app have been noted as "TODOs" throughout the project
+Further improvements that can be made to the app have been noted as "TODOs" throughout the project.
+
+The comments in the code throughout the project have explained any complex feature that was used/ implemented but other than that the app is simple to understand and hopefully, cleanly written as well.
 
 ## Getting Started
 
